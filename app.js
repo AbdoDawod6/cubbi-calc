@@ -41,7 +41,7 @@ function displayResults(results) {
     const resultBox1 = createResultBox(results[0], "cubbi.svg");
     const resultBox2 = createResultBox(results[1], "skip.png");
     const resultBox3 = createResultBox(results[2], "uber_eats.png");
-    const resultBox4 = createResultBox(results[3], "in_person.png");
+    const resultBox4 = createResultBox(results[3], "in_person_logo.png");
 
     resultContainer.appendChild(resultBox1);
     resultContainer.appendChild(resultBox2);
